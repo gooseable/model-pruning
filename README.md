@@ -3,8 +3,11 @@
 
 参考资料：
 https://github.com/Lam1360/YOLOv3-model-pruning
+
 https://github.com/talebolano/yolov3-network-slimming
 
+
+基于论文 Learning Efficient Convolutional Networks Through Network Slimming (ICCV 2017)的 channel pruning算法
 
 环境：
 python36  torch1.0.0
