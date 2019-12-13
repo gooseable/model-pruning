@@ -6,6 +6,8 @@ https://github.com/Lam1360/YOLOv3-model-pruning
 
 https://github.com/talebolano/yolov3-network-slimming
 
+https://github.com/tanluren/yolov3-channel-and-layer-pruning
+
 
 基于论文 Learning Efficient Convolutional Networks Through Network Slimming (ICCV 2017)的 channel pruning算法
 
